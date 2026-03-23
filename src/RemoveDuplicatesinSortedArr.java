@@ -9,6 +9,7 @@ public class RemoveDuplicatesinSortedArr {
 
     }
 
+    //Fast and Slow pointer Pattern
     static int[] removeDuplicates(int arr[]){
 
         int j = 0;

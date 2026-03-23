@@ -8,6 +8,7 @@ public class MoveZeros {
         }
     }
 
+    //Fast-Slow pointer Pattern
     static int[] moveZeros(int arr[]){
 
         int i = 0;
